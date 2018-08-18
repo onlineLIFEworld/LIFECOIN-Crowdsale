@@ -1,0 +1,31 @@
+Token name: LIFECOIN
+
+Token ticker: LFC
+
+Token decimals: 18
+
+Multisig wallet address: 0xD133cc957d41C0cd62ed6175155B2E54F951eA79
+
+*****************************
+
+Crowdsale rate: 100000
+
+Crowdsale start time: 2019-01-01T00:01 (GMT + 7)
+
+Crowdsale end time: 2019-10-31T00:00 (GMT + 7)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xbfaB672938942537Ca30818Aef5Abb2C521Ce34c
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]

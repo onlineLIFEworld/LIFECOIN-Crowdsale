@@ -1,0 +1,35 @@
+Token name: LIFECOIN
+
+Token ticker: LFC
+
+Token decimals: 18
+
+Multisig wallet address: 0xD133cc957d41C0cd62ed6175155B2E54F951eA79
+
+*****************************
+
+Crowdsale rate: 100000
+
+Crowdsale start time: 2019-01-01T00:01 (GMT + 7)
+
+Crowdsale end time: 2019-10-31T00:00 (GMT + 7)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Finalize agent contract name: ReservedTokensFinalizeAgent
+
+Finalize agent contract address for LFC_Crowdsale: 0x8B731807C6dFd0f497F069e70Fedb386e84C5369
+
+*****************************
+
+****Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"distributedReservedTokensDestinationsLen","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"token","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"_token","type":"address"},{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Finalize agent contract ABI encoded constructor arguments for LFC_Crowdsale:**** 
+
+0000000000000000000000005d4d2d85df5156d2db772857e00ccd1b9b3f26fa000000000000000000000000482623e5eea4beeef583725e2e7a715dfc5f324a
